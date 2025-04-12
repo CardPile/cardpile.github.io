@@ -1,3 +1,4 @@
-<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <rect x="75" y="25" width="250" height="350" rx="10" style="fill:rgb(0,0,0);stroke:rgb(148,183,214);stroke-width:10;fill-opacity:1;stroke-opacity:1" />
+<svg width="450" height="450" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="225" cy="225" r="225" />
+  <rect x="100" y="50" width="250" height="350" rx="10" style="fill:rgb(0,0,0);stroke:rgb(148,183,214);stroke-width:10;fill-opacity:0;stroke-opacity:1" />
 </svg>

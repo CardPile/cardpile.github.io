@@ -417,7 +417,7 @@ $(async function ()
         const newCardImg = $("<img>").attr("src", currentCard.image)
                                      .attr("alt", currentCard.name)
                                      .attr("class", "img-fluid m-1 rounded")
-                                     .attr("style", "width: 12vw; height: auto;");
+                                     .attr("style", "width: 12vw; min-width: 125px; height: auto;");
         $("#cards").append(newCardImg);
       }
 
